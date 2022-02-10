@@ -6,10 +6,13 @@
 - 🎯 I’m looking for new workmates interested in AI, ML and Big Data to join the #DEUSteam!
 - 💬 Ask me about our openings or click -> https://talent.deus.ai/jobs
 - 💻 We work mainly with Golang, Python, .NET, Node.js, React...
-- ☁ - We are always in the Cloud (Azure, AWS, ...)
+- ☁  We are always in the Cloud (Azure, AWS, ...)
 - 📢 Help us to spread the word of DEUS!
-- 📫 How to reach me: miriam.casal@deus.ai or in mi LinkedIn
 - 🌱 I’m currently learning: SCRUM, Visual & HR Analytics and English! 
+
+
+### Contact
+- 📫 How to reach me: miriam.casal@deus.ai or in mi LinkedIn
 
 
 [![HitCount](http://hits.dwyl.com/CasalMiriam/READMEMD.svg?style=flat-square)](http://hits.dwyl.com/CasalMiriam/READMEMD)
