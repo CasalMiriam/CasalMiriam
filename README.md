@@ -24,5 +24,3 @@
 - 📫 How to reach me: miriam.casal@deus.ai or in my LinkedIn
 
 
-
-[![HitCount](http://hits.dwyl.com/CasalMiriam/READMEMD.svg?style=flat-square)](http://hits.dwyl.com/CasalMiriam/READMEMD)
